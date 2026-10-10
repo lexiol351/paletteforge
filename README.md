@@ -1,5 +1,7 @@
 # PaletteForge
 
+[![CI](https://github.com/lexiol351/paletteforge/actions/workflows/ci.yml/badge.svg)](https://github.com/lexiol351/paletteforge/actions/workflows/ci.yml)
+
 A modern, responsive color palette generator. Forge harmonious 5-color palettes in one click — lock the colors you love, copy HEX codes instantly, save favorites locally, and export production-ready CSS variables.
 
 ![PaletteForge screenshot](docs/screenshot.png)
